@@ -1,7 +1,13 @@
 # Responsive-navbar-main
+
 ## Overview
 
 The Responsive Navbar is a simple and user-friendly navigation menu designed to work smoothly across all screen sizes. It provides a clean layout for desktop users and automatically switches to a compact hamburger menu on smaller screens. The project focuses on creating a smooth browsing experience and can be used in personal websites, portfolios, or any project that requires an adaptable navigation system.
+
+
+## Screenshot
+
+<img width="1920" height="1080" alt="Screenshot ()" src="https://github.com/user-attachments/assets/bf672cba-171d-44e9-9218-d3256c93d9c0" />
 
 
 ## Features
@@ -20,14 +26,21 @@ The Responsive Navbar is a simple and user-friendly navigation menu designed to 
 
 
 ## Project Structure
+
 responsive-navbar-main/
 │
-├── index.html      # Navbar structure and layout
-├── style.css       # Styling and responsive design
-└── app.js          # Mobile menu toggle functionality
+
+├── index.html          # Navbar structure
+
+├── style.css           # Styling and responsive design
+
+└── app.js              # Menu toggle functionality
+
+
 
 
 ## Getting Started
+
 1.**Clone the Repository**
    
 git clone https://github.com/Sanjay9923/responsive-navbar-main.git
@@ -41,33 +54,23 @@ No installation or setup required.
 
 ## Technologies Used
 
-Frontend: HTML, CSS, JavaScript
-Tools: Any code editor (VS Code, Sublime, etc.)
+**Frontend**: HTML, CSS, JavaScript
 
-
-## Customization
-
-You can easily customize the navbar:
-
-Change colors or fonts in style.css
-
-Add or remove links in index.html
-
-Modify hamburger animation in app.js
+**Tools**: Any code editor (VS Code, Sublime, etc.)
 
 
 ## Future Enhancements
 
-Add dropdown menus
+- Add dropdown menus
 
-Add active link highlighting
+- Add active link highlighting
 
-Add dark/light theme toggle
+- Add dark/light theme toggle
 
-Add smooth page scrolling
+- Add smooth page scrolling
 
 
-## Project Contributor
+## Author
 
 Sanjay S — Developer & Designer
 
