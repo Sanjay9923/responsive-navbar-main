@@ -1,4 +1,4 @@
-# Responsive-navbar-main
+# Responsive-Navbar-Main
 
 ## Overview
 
@@ -7,7 +7,7 @@ The Responsive Navbar is a simple and user-friendly navigation menu designed to 
 
 ## Preview (Screenshot)
 
-<img width="1920" height="1080" alt="Screenshot ()" src="https://github.com/user-attachments/assets/bf672cba-171d-44e9-9218-d3256c93d9c0" />
+![Screenshot (1)](https://github.com/user-attachments/assets/2438677f-acc0-45fd-b50b-f8fb58ec9c24)
 
 
 ## Features
@@ -55,7 +55,7 @@ No installation or setup required.
 **Tools**: Any code editor (VS Code, Sublime, etc.)
 
 
-## Future Enhancements
+## Future Improvements
 
 - Add dropdown menus
 
